@@ -1,1 +1,8 @@
-
+streamlit
+python-dotenv
+openai
+langchain
+# Pineconeなし
+# => weaviate-client 追加
+weaviate-client==3.15.4  # (例) v3 REST想定の場合
+# or weaviate-client==4.xx  (ただしLangChain v4対応要注意)
