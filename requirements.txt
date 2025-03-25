@@ -6,3 +6,4 @@ langchain
 # => weaviate-client 追加
 weaviate-client==4.11.3
 # or weaviate-client==4.xx  (ただしLangChain v4対応要注意)
+langchain_community
